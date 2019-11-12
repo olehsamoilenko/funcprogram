@@ -1,0 +1,1 @@
+(print (eval (cons (quote >) (cons 5 (list ((lambda (x y) (- x y)) 3 7))))))
