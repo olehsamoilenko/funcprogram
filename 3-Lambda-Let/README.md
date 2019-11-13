@@ -1,3 +1,4 @@
+<!-- check on my github: https://github.com/olehsamoilenko/funcprogram/tree/master/3-Lambda-Let -->
 <html>
 	<p align="center">
 		Київський національний університет імені Тараса Шевченка<br>
