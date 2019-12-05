@@ -41,3 +41,4 @@
 
 ; b^p mod m
 (print (calculate 5 2 3))
+(print (calculate 5 0 1))
